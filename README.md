@@ -37,9 +37,9 @@ This page lists out all of the available stations.
 This page lists a years worth of the most recent data with the date and the corresponding temperatures.
 
 **/api/v1.0/<start>**
-_Instructions": "Replace <start> with date | YYYY-MM-DD_
+_Instructions": "Replace <start> with date | YYYY-MM-DD_:
 This page allows the user to do self exploratory analysis and calculate the mean, min, and max of the data. If there is no end date included it will calculate from the start date to the most recent date.
 
 **/api/v1.0/<start>/<end>**
-_Instructions": "Replace <start> and <end> with dates | YYYY-MM-DD/YYYY-MM-DD_
+_Instructions": "Replace <start> and <end> with dates | YYYY-MM-DD/YYYY-MM-DD_:
 This page allows the user to do self exploratory analysis and calculate the mean, min, and max of the data for a desired start and end date. 
